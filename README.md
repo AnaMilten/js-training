@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AnaMilten/js-training.svg?branch=master)](https://travis-ci.org/GITHUB_LOGIN/js-training)
+[![Build Status](https://travis-ci.org/AnaMilten/js-training.svg?branch=master)](https://travis-ci.org/AnaMilten/js-training)
 ## Setup
 First, [**fork**](https://github.com/nan-academy/js-training/fork?fragment=1) this repository.
 ### globals dependencies
